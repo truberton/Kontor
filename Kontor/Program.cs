@@ -15,7 +15,6 @@ namespace Kontor
                 {
                     break;
                 }
-                Console.WriteLine(Töötaja);
                 Console.WriteLine("Mis ruumi soovid minna?\n1. Peauks\n2. Arendajate ruum\n3. Ülemuste ruum\n4. Köök\n5. Andmetöötlejate ruum");
                 string Tuba = Console.ReadLine();
                 var Klass0 = new Klassi_Valik();
